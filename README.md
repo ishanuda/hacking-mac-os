@@ -13,7 +13,7 @@ Processor: Intel
 2. Apple Keyboard
 3. [Terminal](TERMINAL.md)
 4. zsh
-5. Homebrew
+5. [Homebrew](HOMEBREW.md)
 
 #### Installation
 1. Install xcode
