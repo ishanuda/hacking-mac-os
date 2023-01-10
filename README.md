@@ -1,4 +1,4 @@
-# hacking-mac-os
+# Hacking mac OS
 This repository information to play with the mac os
 
 ## Device Info
