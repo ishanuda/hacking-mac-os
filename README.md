@@ -1,21 +1,21 @@
-# Hacking mac OS
+### Hacking mac OS
 This repository information to play with the mac os
 
-## Device Info
+#### Device Info
 Device: Macbook Pro
 
 OS: Ventura
 
 Processor: Intel
 
-## Get familier with
+#### Get familier with
 1. [mac OS UI](MACOS-UI.md)
 2. Apple Keyboard
 3. [Terminal](TERMINAL.md)
 4. zsh
 5. Homebrew
 
-## Installation
+#### Installation
 1. Install xcode
 2. Install Pytohn
 3. Install NVM
