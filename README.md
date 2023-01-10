@@ -8,8 +8,8 @@ OS: Ventura
 
 Processor: Intel
 
-## Workaround
-1. Learn UI
+## Get familier with
+1. [Learn UI](APPLE-UI.md)
 2. Learn Keyboard
 3. Learn Terminal
 4. Learn zsh
