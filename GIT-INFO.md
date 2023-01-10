@@ -1,3 +1,14 @@
+# Edit global configuration file
+
+> git config --global --edit
+
+# Edit global user info
+
+> git config --global user.name <User Name>
+> git config --global user.email <user@email.com>
+
+
+
 
 # Remove .DS_Store file from repository
 
