@@ -8,9 +8,6 @@
 
 > git config --global user.email <user@email.com>
 
-
-
-
 # Remove .DS_Store file from repository
 
 ## Remove existing .DS_Store files from the repository
@@ -20,4 +17,9 @@
 ## Add this to the .gitignore
 
 > .DS_Store
+
+> git add .gitignore
+
+> git commit -m 'commit message'
+
 
