@@ -9,7 +9,7 @@ OS: Ventura
 Processor: Intel
 
 ## Get familier with
-1. [Learn UI](APPLE-UI.md)
+1. [Learn UI](MACOS-UI.md)
 2. Learn Keyboard
 3. Learn Terminal
 4. Learn zsh
